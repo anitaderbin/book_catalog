@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\controllers",
+    "\\app\\controllers\\concerns",
+    "\\app\\helpers",
+    "\\app\\jobs",
+    "\\app\\mailers",
+    "\\lib",
+    "\\lib\\assets",
+    "\\lib\\tasks"
+  ],
+  "SelectedNode": "\\app\\helpers\\application_helper.rb",
+  "PreviewInSolutionExplorer": false
+}
