@@ -23,6 +23,9 @@ The books are sorted by their published date
 Helpful links I used to set up this app:
 
 Installing Ruby on Rails: https://www.tutorialspoint.com/ruby-on-rails/rails-installation.htm
+
 Installing Tailwind: https://tailwindcss.com/docs/guides/ruby-on-rails
+
 Issue with tzinfo-data: https://stackoverflow.com/questions/23022258/tzinfodatasourcenotfound-error-starting-rails-v4-1-0-server-on-windows
+
 Creating database: https://www.digitalocean.com/community/tutorials/how-to-build-a-ruby-on-rails-application
