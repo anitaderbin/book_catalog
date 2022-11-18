@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\app",
-    "\\app\\controllers",
-    "\\app\\controllers\\concerns",
-    "\\app\\helpers",
-    "\\app\\jobs",
-    "\\app\\mailers",
-    "\\lib",
-    "\\lib\\assets",
+    "\\app\\models",
+    "\\app\\views",
+    "\\app\\views\\books",
+    "\\app\\views\\layouts",
+    "\\bin",
+    "\\config",
+    "\\db",
     "\\lib\\tasks"
   ],
-  "SelectedNode": "\\app\\helpers\\application_helper.rb",
+  "SelectedNode": "\\app\\models\\book.rb",
   "PreviewInSolutionExplorer": false
 }
