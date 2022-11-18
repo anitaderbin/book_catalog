@@ -4,7 +4,10 @@ Date: November 17, 2022
 Author: Anita Derbin
 
 This app is a book catalog that allows user to add, edit and delete their books. 
-To get this app working you want to use git clone and save it somewhere on a local disk
+To get this app working you want to use git clone and save it somewhere on a local disk:
+```
+git clone https://github.com/anitaderbin/book_catalog.git
+```
 
 Then, you would use command line to navigate to the book_catalog folder and run:
 ```
