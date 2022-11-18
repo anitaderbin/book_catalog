@@ -12,8 +12,8 @@ rails s
 
 From here, you would open the http address specified by rails (99% it is localhost:3000)
 
-- to add a new book, select "New book" at the tob of the screen
-- to edit the book, select "Edit this book" under the book description
+- to add a new book, select "New book" at the top of the screen
+- to edit the book, select "Edit this book" under the book's description
 - to delete the book, select "Edit this book" -> "Update Book" -> "Delete this Book"
 
 The books are sorted by their published date
