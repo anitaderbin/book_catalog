@@ -4,9 +4,9 @@ Date: November 17, 2022
 Author: Anita Derbin
 
 This app is a book catalog that allows user to add, edit and delete their books. 
-To get this app working (on Windows), you want to download the .zip file, extract it somewhere on the local disk (it will have trouble running from Downloads folder) or use git clone
+To get this app working you want to use git clone and save it somewhere on a local disk
 
-Then, you would use command line to navigate to the book_catalog-master folder, run:
+Then, you would use command line to navigate to the book_catalog folder and run:
 ```
 rails db:migrate
 rails s
